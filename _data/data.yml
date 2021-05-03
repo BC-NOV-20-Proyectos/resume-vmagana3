@@ -7,16 +7,16 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Valdemar Gerzain Magaña Nicolás # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: gerzainnb@gmail.com
+  phone: 3121136190
   website: # No agregar http://
   linkedin: brightcoders
-  github: brightcoders
+  github: vmagana3
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -27,13 +27,10 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B2 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom: German
-      level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -43,75 +40,62 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Reponsible
+      link: # dejar en blanco
+      
+    - item: Committed
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a proactive, responsible and committed person with my work, I like to do things well and with quality, doing my personal goals and common objectives with my collaborators. Lover of web development and always ready to learn new things and technologies that help me expand my technical and professional knowledge. I like collaborative and team work, where each one contributes to achieve a greater goal.
+
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
-    details: |
+  - degree: Porgrammer Analist
+    university: Universidad De Colima
+    time: 2014 Aug - 2017 July
+    details: |Programing Basis, Basic databases and data networks introduction
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Software Enginner
+    university: Universidad De Colima
+    time: 2017 Aug - 2021 July
     details: |
-      Unsupervised deep learning for automatic behavior analysis
+      Software Development
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
+        - Software Development Life Cycle
+        - Project Managment
+        - Agile metodologies
+        - Data strctures, mobile development, data networka, web programming, etc.
 
   - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
+    university: BrightCoders Academy
+    time: 2020 Nov - 2021 May
     details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+      React Native Mobile Developer certification 
 
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+        - Mobile Development with React Native
+        - JS
+        -Git and GitHub
+        -TeamWork
+        
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Backend Developer
+    time: 2010 Oct - 2021 Marach
+    company: Dirección de sistemas CENEDIC UCOL
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      I developed just one module on this project, the part i developed was about excel user reports. This project is about digital forms to collect information, and it was development for that dependecy of Universidad De Colima.
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Autodidact Front-End Developer
+    time: 2016 - Currently
+    company: Autodidact
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-
+      I started to programn on 2015, then on 2016 i developed my fist web page. I like the Front-End side and i like to use this tools, JS, CSS and HTML. Also i have use some framworks and another tools like bootstrap and SASS
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -122,22 +106,22 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
+    - name: HTML
       level: 80%
 
-    - name: Matlab
-      level: 100%
+    - name: CSS
+      level: 80%
 
-    - name: C/C++
+    - name: JS
+      level: 60%
+
+    - name: SASS
+      level: 60%
+
+    - name: Bootstrap
+      level: 60%
+
+    - name: GIT
       level: 40%
 
 # NO MODIFICAR
